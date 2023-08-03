@@ -1,0 +1,4 @@
+scipy
+st-openai-embed-connection
+streamlit
+tiktoken
