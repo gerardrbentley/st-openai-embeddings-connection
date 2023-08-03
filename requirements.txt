@@ -1,4 +1,4 @@
 scipy
-st-openai-embed-connection
+st-openai-embeddings-connection
 streamlit
 tiktoken
